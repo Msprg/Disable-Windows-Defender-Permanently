@@ -41,7 +41,7 @@ REM bitsadmin/transfer Explorers /download /priority FOREGROUND https://raw.gith
 
 set pop=%systemroot%
 
-echo  This is last chance to abort before Diabling Windows Defender permanently! Close window or 2x control-c to abort.
+echo  This is the last chance to abort before Disabling Windows Defender permanently! Close the window or 2x control-c to abort.
 pause
 echo  Permanently disabling Windows Defender NOW!
 
